@@ -28,8 +28,7 @@ Este projeto foi desenvolvido com foco em:
 
 ## Como visualizar:
 Você pode abrir os arquivos diretamente no navegador ou, se publicado no GitHub Pages, acessar pelo link:  
-https://gabriellyleitedev.github.io/Aplica-o-Animada-Fruit
-/ (após configurar o GitHub Pages)
+https://gabriellyleitedev.github.io/Aplica-o-Animada-Fruit/ (após configurar o GitHub Pages)
 
 
 ## Screenshots:
