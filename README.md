@@ -1,7 +1,7 @@
 # Aplicação Animada Fruit
 
 Projeto front-end criado para treinar **animações, transições e manipulação de elementos** com **HTML, CSS e JavaScript**.  
-A proposta é simples, mas visualmente marcante: uma lata animada com frutas flutuando, que muda de sabor (Morango, abacate e laranja) ao clicar nas setas laterais.  
+A proposta é simples, mas visualmente marcante: uma lata animada com frutas flutuando, que muda de sabor (morango, abacate e laranja) ao clicar nas setas laterais.  
 
 ## Tecnologias utilizadas
 - **HTML5** — estrutura da página  
