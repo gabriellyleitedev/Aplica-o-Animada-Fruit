@@ -32,4 +32,4 @@ https://gabriellyleitedev.github.io/Aplica-o-Animada-Fruit/ (após configurar o 
 
 
 ## Screenshots:
- (<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/0a550d3b-f6fc-4ccd-91e8-c91ee094e405" />)
+ <img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/0a550d3b-f6fc-4ccd-91e8-c91ee094e405" />
